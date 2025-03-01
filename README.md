@@ -38,9 +38,15 @@ CALCULATE(MAX('stocks'[Close]),'stocks'[Date] = MAX('stocks'[Date]))
 
 # Key Insights from Dashboard
 1.**Stock Prices Trend:** Price trends show fluctuations in major stocks, with peaks in March-April.
+
 2.**Daily Trading Volume:** March had the highest trading activity (3.2B volume).
+
 3.**Stock Performance Comparison:** MSFT and AAPL had higher trading volumes than others.
+
 4.**Sector Contribution:** AAPL contributed the largest share in total volume.
+
 5.**Drop in Volume in May:** A sharp decline in stock trading volume was observed in May, indicating a potential shift in market activity.
+
 6.**Volatility in Adjusted Closing Price:** Stocks exhibited significant fluctuations, suggesting market instability in certain periods.
+
 7.**Consistent Growth in Some Stocks:** Certain stocks showed a steady upward trend, making them strong investment options.
